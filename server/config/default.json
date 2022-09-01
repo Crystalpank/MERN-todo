@@ -1,0 +1,5 @@
+{
+    "dbURL":"mongodb://localhost:27017/Todo",
+    "PORT":5000,
+    "secretKey":"fqwg45gtg43"
+}
